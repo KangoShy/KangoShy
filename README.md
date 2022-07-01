@@ -1,5 +1,4 @@
 Welcome to here 👏! I'm KangoShy!
-[![KangoShy](https://github-readme-stats.vercel.app/api?username=KangoShy)](https://github.com/anuraghazra/github-readme-stats)
 
 🐧 2713732175
 
@@ -8,3 +7,4 @@ Welcome to here 👏! I'm KangoShy!
 👇访问次数👇
 
 <img src="https://count.getloli.com/get/@:name" alt=":name" />
+
