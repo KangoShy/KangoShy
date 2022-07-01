@@ -1,4 +1,5 @@
-Welcome to here 👏! I'm KangoShy![![KangoShy](https://github-readme-stats.vercel.app/api?username=KangoShy)](https://github.com/anuraghazra/github-readme-stats)
+Welcome to here 👏! I'm KangoShy!
+[![KangoShy](https://github-readme-stats.vercel.app/api?username=KangoShy)](https://github.com/anuraghazra/github-readme-stats)
 
 🐧 2713732175
 
